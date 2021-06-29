@@ -2,6 +2,12 @@
 
 ## Demonstration
 
+### Desktop
+![gif-desktop](https://user-images.githubusercontent.com/63374582/123791983-c68be000-d8e8-11eb-9c5c-969ac9207170.gif)
+
+### Mobile
+![mobile-gif](https://user-images.githubusercontent.com/63374582/123792042-d9061980-d8e8-11eb-8c89-bac02b3cd8fd.gif)
+
 
 ---
 ## Description
